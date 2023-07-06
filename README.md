@@ -1,6 +1,6 @@
 [![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)]
 <h1 align="center">Hi 👋, I'm Shubham Bodkhe</h1>
-<h3 align="center">Data Analysis Enthusiast</h3>
+<h3 align="center">Data Analytics Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://fizzymag.com/uploads/ckeditor/pictures/7977/content_web-scraping-05.gif">
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubhambodkhe24" target="blank"><img src="https://img.shields.io/twitter/follow/shubhambodkhe24?logo=twitter&style=for-the-badge" alt="shubhambodkhe24" /></a> </p>
 
-- 🌱 I’m currently learning **language for data analysis**
+- 🌱 I’m currently learning **language for Data Analytics **
 
 - 📫 How to reach me **shubhambodkhe24@gmail.com**
 

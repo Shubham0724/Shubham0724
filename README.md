@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/shubhambodkhe24" target="blank"><img src="https://img.shields.io/twitter/follow/shubhambodkhe24?logo=twitter&style=for-the-badge" alt="shubhambodkhe24" /></a> </p>
 
-- 🌱 I’m currently learning **language for Data Analytics **
-
 - 📫 How to reach me **shubhambodkhe24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

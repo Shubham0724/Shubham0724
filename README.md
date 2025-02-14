@@ -1,6 +1,6 @@
 [![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)]
 <h1 align="center">Hi 👋, I'm Shubham Bodkhe</h1>
-<h3 align="center">Data Analytics Enthusiast</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://fizzymag.com/uploads/ckeditor/pictures/7977/content_web-scraping-05.gif">
 
 
